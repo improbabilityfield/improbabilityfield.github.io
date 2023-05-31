@@ -1,8 +1,4 @@
----
-layout: page
-title: improbabilityfield
----
-
+<head>  
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQHNC1T9NE"></script>
 <script>
@@ -12,6 +8,12 @@ title: improbabilityfield
 
   gtag('config', 'G-VQHNC1T9NE');
 </script>
+</head>
+
+---
+layout: page
+title: improbabilityfield
+---
 
 ### Menus
 - [Main Street Commissary](pages/main-street-commissary.html)
